@@ -1,0 +1,44 @@
+* {
+    color: darkgreen;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 0%;
+}
+/*
+#primeiro {
+    border: 1px solid gold;
+    margin: 30px;
+}
+
+.segundo {
+    border: 5px solid rgb(0, 0, 0);
+    padding: 10px;
+} */
+
+ nav span {
+    color: rgb(29, 11, 133);
+    cursor: pointer;
+    transition: 300ms;
+}
+
+nav span:hover {
+    text-decoration: underline;
+    color: deeppink;
+    background-color: firebrick;
+}
+
+.segundo > div {
+    display: block !important
+}
+
+#primeiro, 
+.segundo {
+
+    border: 5px solid rgb(0, 0, 0);
+    padding: 10px;
+}
+
+.segundo > p {
+    color: rgb(63, 31, 177);
+}
+

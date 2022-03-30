@@ -1,0 +1,16 @@
+/* tags */
+body{
+    text-align: center;
+}
+/* IDs*/
+#login{
+    background-color: rgb(78, 78, 124);
+    color: white;
+}
+#registre{
+    background-color: rgb(78, 78, 124);
+    color: white;
+}
+.copy {
+    font-size: 8px;
+}
